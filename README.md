@@ -6,7 +6,8 @@ O JavaScript é responsável por implementar as funcionalidades da calculadora, 
 
 O repositório conta com uma documentação clara e objetiva, O código foi desenvolvido com boas práticas de programação, visando a manutenção e escalabilidade do projeto.
 
-![Captura da Web_22-4-2023_103019_calculadora darklery repl co](https://user-images.githubusercontent.com/97713511/233788555-28d718be-5bfd-4215-bb8c-b977ac318c29.jpeg)
+![Captura da Web_22-4-2023_10527_calculadora-2 darklery repl co](https://user-images.githubusercontent.com/97713511/233788898-ced785c2-11c8-45a0-93e2-36b9e3d9a96b.jpeg)
+
 
 
 
